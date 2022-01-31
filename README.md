@@ -2,6 +2,11 @@
 
 Result of [Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
+- Navigation: pushNamed, pop
+- routes
+- [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
+- [timezone](https://pub.dev/packages/timezone)
+
 ## Screenshots
 
 <p>
